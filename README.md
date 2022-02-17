@@ -677,7 +677,7 @@ $TTL 3600  ; 1 hour
 
 13  PTR  Windows7-PC.example.com. **/var/lib/bind/db.example.com:** 
 
-$TTL 3600  ; 1 hour ![](Aspose.Words.56436bc8-5a01-44c9-b660-2e2fc212925f.044.png)
+$TTL 3600  ; 1 hour 
 
 Windows7-PC   A  192.168.1.13
 
